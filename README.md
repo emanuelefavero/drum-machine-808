@@ -18,3 +18,7 @@ This is a vanilla Javascript project of a drum machine that plays the classic 80
 - Open the `index.html` file in your browser
 - Click on the pads to play the sounds
 - If you are using a keyboard, press the keys `A`, `S`, `D`, `F`, `G`, `H`, `J` to play the sounds
+
+## License
+
+- [MIT](LICENSE.md)
